@@ -1,0 +1,1 @@
+enum AppTap { filtered, state }
